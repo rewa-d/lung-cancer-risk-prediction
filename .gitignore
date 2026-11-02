@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+
+# Local data and trained artifacts are intentionally not included.
+survey_lung_cancer.csv
+lung_cancer_model.pkl
+scaler.pkl
